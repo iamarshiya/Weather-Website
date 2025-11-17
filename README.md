@@ -87,6 +87,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ```bash
 weather-app/
 ├── node_modules/
+├── Output/
+│   ├── images/      # Final Website Images
 ├── public/
 │   ├── images/       # Store your weather background images here
 │   └── index.html
