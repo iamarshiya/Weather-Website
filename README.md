@@ -15,6 +15,15 @@ A visually stunning weather application built with React.js that features a **Gl
 * **Responsive:** Adapts to the screen size with a clean, centered layout.
 * **Custom Assets:** Uses high-quality atmospheric images for different weather states.
 
+![Moderate](Output/image.png)
+![Hot](Output/image-1.png)
+![Foggy](Output/image-2.png)
+![Stormy](Output/image-3.png)
+![Warm](Output/image-4.png)
+![Very Hot](Output/image-5.png)
+![Chilly](Output/image-6.png)
+
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** React.js (Functional Components, Hooks)

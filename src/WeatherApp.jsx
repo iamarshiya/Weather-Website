@@ -304,14 +304,14 @@ const styles = {
 
   // --- IMAGE PATHS ---
   'default-bg': {
-    backgroundImage: "url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1470&q=80')"
+    backgroundImage: "url('/images/loading.png')"
   },
   'kamino-bg': { backgroundImage: "url('/images/kamino.png')" }, 
-  'endor-bg': { backgroundImage: "url('/images/endor.jpg')" },
+  'endor-bg': { backgroundImage: "url('/images/endor1.jpg')" },
   'Hoth-bg': { backgroundImage: "url('/images/hoth.jpg')" },
   'naboo-bg-warmer': { backgroundImage: "url('/images/Naboo-warmer.jpg')" },
   'coruscant-bg': { backgroundImage: "url('/images/coruscant-night.jpg')" },
-  'scariff-bg': { backgroundImage: "url('/images/scariff.jpg')" },
+  'scariff-bg': { backgroundImage: "url('/images/Scariff.jpg')" },
   'tattoine-bg': { backgroundImage: "url('/images/tatooine.jpg')" },
   'bespin-bg': { backgroundImage: "url('/images/bespin.jpg')" },
   'kashyyk-bg': { backgroundImage: "url('/images/kashyyk.jpg')" }
